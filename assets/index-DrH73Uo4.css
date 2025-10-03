@@ -178,12 +178,12 @@ body {
     width: 100%
 }
 
-.home-page[data-v-881cf712] {
+.home-page[data-v-fa455b7c] {
     font-family: Segoe UI, Arial, sans-serif;
     color: #333
 }
 
-.hero[data-v-881cf712] {
+.hero[data-v-fa455b7c] {
     text-align: center;
     background: linear-gradient(135deg, #00a046, #66cdaa);
     color: #fff;
@@ -193,19 +193,19 @@ body {
     overflow: hidden
 }
 
-.hero-title[data-v-881cf712] {
+.hero-title[data-v-fa455b7c] {
     font-size: 3rem;
     margin-bottom: 20px;
-    animation: fadeInDown-881cf712 1s ease forwards
+    animation: fadeInDown-fa455b7c 1s ease forwards
 }
 
-.hero-subtitle[data-v-881cf712] {
+.hero-subtitle[data-v-fa455b7c] {
     font-size: 1.2rem;
     margin-bottom: 30px;
-    animation: fadeIn-881cf712 1.5s ease forwards
+    animation: fadeIn-fa455b7c 1.5s ease forwards
 }
 
-.hero-buttons .btn[data-v-881cf712] {
+.hero-buttons .btn[data-v-fa455b7c] {
     margin: 0 10px;
     padding: 10px 25px;
     font-size: 1rem;
@@ -214,27 +214,27 @@ body {
     transition: transform .3s, background .3s
 }
 
-.btn-primary[data-v-881cf712] {
+.btn-primary[data-v-fa455b7c] {
     background-color: #fff;
     color: #00a046
 }
 
-.btn-primary[data-v-881cf712]:hover {
+.btn-primary[data-v-fa455b7c]:hover {
     background-color: #e6ffe6;
     transform: scale(1.05)
 }
 
-.btn-secondary[data-v-881cf712] {
+.btn-secondary[data-v-fa455b7c] {
     background-color: #ffffff4d;
     color: #fff
 }
 
-.btn-secondary[data-v-881cf712]:hover {
+.btn-secondary[data-v-fa455b7c]:hover {
     background-color: #ffffff80;
     transform: scale(1.05)
 }
 
-@keyframes fadeInDown-881cf712 {
+@keyframes fadeInDown-fa455b7c {
     0% {
         opacity: 0;
         transform: translateY(-30px)
@@ -246,7 +246,7 @@ body {
     }
 }
 
-@keyframes fadeIn-881cf712 {
+@keyframes fadeIn-fa455b7c {
     0% {
         opacity: 0
     }
@@ -256,7 +256,7 @@ body {
     }
 }
 
-.features[data-v-881cf712] {
+.features[data-v-fa455b7c] {
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
@@ -264,7 +264,7 @@ body {
     gap: 20px
 }
 
-.feature-card[data-v-881cf712] {
+.feature-card[data-v-fa455b7c] {
     flex: 1 1 220px;
     background: #f0fff4;
     border-radius: 12px;
@@ -272,32 +272,32 @@ body {
     text-align: center;
     transition: transform .3s, box-shadow .3s;
     opacity: 0;
-    animation: fadeInUp-881cf712 .8s forwards
+    animation: fadeInUp-fa455b7c .8s forwards
 }
 
-.feature-card[data-v-881cf712]:hover {
+.feature-card[data-v-fa455b7c]:hover {
     transform: translateY(-10px) scale(1.03);
     box-shadow: 0 8px 20px #00000026
 }
 
-.feature-icon[data-v-881cf712] {
+.feature-icon[data-v-fa455b7c] {
     font-size: 3rem;
     margin-bottom: 15px
 }
 
-.feature-card h3[data-v-881cf712] {
+.feature-card h3[data-v-fa455b7c] {
     font-size: 1.2rem;
     margin-bottom: 10px;
     color: #008836
 }
 
-.feature-card p[data-v-881cf712] {
+.feature-card p[data-v-fa455b7c] {
     font-size: 1rem;
     line-height: 1.5;
     color: #333
 }
 
-@keyframes fadeInUp-881cf712 {
+@keyframes fadeInUp-fa455b7c {
     0% {
         opacity: 0;
         transform: translateY(20px)
@@ -309,7 +309,7 @@ body {
     }
 }
 
-.promo[data-v-881cf712] {
+.promo[data-v-fa455b7c] {
     background: linear-gradient(90deg, #e0ffe0, #f0fff4);
     padding: 60px 20px;
     text-align: center;
@@ -317,21 +317,21 @@ body {
     margin: 50px 20px
 }
 
-.promo-title[data-v-881cf712] {
+.promo-title[data-v-fa455b7c] {
     font-size: 2rem;
     margin-bottom: 40px;
     color: #00a046;
-    animation: fadeInDown-881cf712 1s ease forwards
+    animation: fadeInDown-fa455b7c 1s ease forwards
 }
 
-.promo-cards[data-v-881cf712] {
+.promo-cards[data-v-fa455b7c] {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
     gap: 25px
 }
 
-.promo-card[data-v-881cf712] {
+.promo-card[data-v-fa455b7c] {
     background: #fff;
     padding: 20px;
     border-radius: 12px;
@@ -340,15 +340,15 @@ body {
     box-shadow: 0 4px 10px #0000001a;
     transition: transform .3s, box-shadow .3s;
     opacity: 0;
-    animation: fadeInUp-881cf712 .8s forwards
+    animation: fadeInUp-fa455b7c .8s forwards
 }
 
-.promo-card[data-v-881cf712]:hover {
+.promo-card[data-v-fa455b7c]:hover {
     transform: translateY(-8px) scale(1.05);
     box-shadow: 0 10px 25px #0003
 }
 
-.promo-card img[data-v-881cf712] {
+.promo-card img[data-v-fa455b7c] {
     width: 100%;
     height: 140px;
     object-fit: cover;
@@ -356,72 +356,72 @@ body {
     margin-bottom: 15px
 }
 
-.promo-card h3[data-v-881cf712] {
+.promo-card h3[data-v-fa455b7c] {
     font-size: 1.1rem;
     margin-bottom: 10px;
     color: #008836
 }
 
-.promo-card p[data-v-881cf712] {
+.promo-card p[data-v-fa455b7c] {
     font-size: 1rem;
     margin-bottom: 15px
 }
 
 @media (max-width: 1024px) {
-    .features[data-v-881cf712] {
+    .features[data-v-fa455b7c] {
         justify-content: center
     }
 
-    .feature-card[data-v-881cf712] {
+    .feature-card[data-v-fa455b7c] {
         flex: 1 1 45%
     }
 
-    .promo-cards[data-v-881cf712] {
+    .promo-cards[data-v-fa455b7c] {
         justify-content: center
     }
 
-    .promo-card[data-v-881cf712] {
+    .promo-card[data-v-fa455b7c] {
         width: 45%
     }
 }
 
 @media (max-width: 768px) {
-    .hero-title[data-v-881cf712] {
+    .hero-title[data-v-fa455b7c] {
         font-size: 2.2rem
     }
 
-    .hero-subtitle[data-v-881cf712] {
+    .hero-subtitle[data-v-fa455b7c] {
         font-size: 1rem
     }
 
-    .hero-buttons .btn[data-v-881cf712] {
+    .hero-buttons .btn[data-v-fa455b7c] {
         margin: 5px 0;
         width: 80%;
         display: block
     }
 
-    .features[data-v-881cf712] {
+    .features[data-v-fa455b7c] {
         flex-direction: column;
         align-items: center
     }
 
-    .feature-card[data-v-881cf712],
-    .promo-card[data-v-881cf712] {
+    .feature-card[data-v-fa455b7c],
+    .promo-card[data-v-fa455b7c] {
         width: 90%;
         margin-bottom: 20px
     }
 }
 
 @media (max-width: 480px) {
-    .hero-title[data-v-881cf712] {
+    .hero-title[data-v-fa455b7c] {
         font-size: 1.8rem
     }
 
-    .hero-subtitle[data-v-881cf712] {
+    .hero-subtitle[data-v-fa455b7c] {
         font-size: .9rem
     }
 
-    .promo-title[data-v-881cf712] {
+    .promo-title[data-v-fa455b7c] {
         font-size: 1.5rem
     }
 }
