@@ -4078,8 +4078,8 @@ function Sa(e) {
 function xa(e) {
     return pe(e) ? document.querySelector(e) : e
 }
-const Ca = "" + new URL("../icons/ChatGPT Image 3 жовт. 2025 р., 15_12_24.png", import.meta.url).href,
-    Ea = "" + new URL("../icons/cart.png", import.meta.url).href,
+const Ca = "/delivery/icons/ChatGPT%20Image%203%20%D0%B6%D0%BE%D0%B2%D1%82.%202025%20%D1%80.,%2015_12_24.png",
+    Ea = "/delivery/icons/cart.png",
     Ot = (e, t) => {
         const n = e.__vccOpts || e;
         for (const [s, r] of t) n[s] = r;
@@ -6378,3 +6378,4 @@ let ed = Wu({
     Bo = wa(Ba);
 Bo.use(ed);
 Bo.mount("#app");
+//# sourceMappingURL=index-DzIeNLEn.js.map
