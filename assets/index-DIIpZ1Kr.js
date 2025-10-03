@@ -5647,25 +5647,25 @@ const Gu = {
                     id: 1,
                     name: "Ноутбук Lenovo IdeaPad 3",
                     price: 15e3,
-                    image: "/laptop/6.webp",
+                    image: "/delivery/laptop/6.webp",
                     categoryId: 1
                 }, {
                     id: 2,
                     name: "iPhone 14 Pro",
                     price: 45e3,
-                    image: "/phone/1.png",
+                    image: "/delivery/phone/1.png",
                     categoryId: 2
                 }, {
                     id: 3,
                     name: "Холодильник Samsung RB38",
                     price: 3e4,
-                    image: "/public/tech/6.avif",
+                    image: "/delivery/tech/6.avif",
                     categoryId: 3
                 }, {
                     id: 4,
                     name: "LG OLED55",
                     price: 35e3,
-                    image: "/monitor/6.webp",
+                    image: "/delivery/monitor/6.webp",
                     categoryId: 4
                 }]
             }
@@ -5733,7 +5733,7 @@ function nf(e, t, n, s, r, i) {
 }
 const sf = Ot(Gu, [
         ["render", nf],
-        ["__scopeId", "data-v-879448fa"]
+        ["__scopeId", "data-v-881cf712"]
     ]),
     rf = {
         props: ["id"],
@@ -5745,210 +5745,210 @@ const sf = Ot(Gu, [
                     weight: 2,
                     price: 15e3,
                     categoryId: 1,
-                    image: "/laptop/6.webp"
+                    image: "/delivery/laptop/6.webp"
                 }, {
                     id: 2,
                     name: "Ноутбук ASUS Vivobook",
                     weight: 2.3,
                     price: 17e3,
                     categoryId: 1,
-                    image: "/laptop/5.jpg"
+                    image: "/delivery/laptop/5.jpg"
                 }, {
                     id: 3,
                     name: "Ноутбук HP Pavilion",
                     weight: 2.1,
                     price: 16e3,
                     categoryId: 1,
-                    image: "/laptop/4.webp"
+                    image: "/delivery/laptop/4.webp"
                 }, {
                     id: 4,
                     name: "Ноутбук Acer Aspire 5",
                     weight: 2.2,
                     price: 15500,
                     categoryId: 1,
-                    image: "/laptop/1.jpg"
+                    image: "/delivery/laptop/1.jpg"
                 }, {
                     id: 5,
                     name: "Ноутбук Dell Inspiron 15",
                     weight: 2.4,
                     price: 17500,
                     categoryId: 1,
-                    image: "/laptop/2.jpg"
+                    image: "/delivery/laptop/2.jpg"
                 }, {
                     id: 6,
                     name: "Ноутбук Apple MacBook Air",
                     weight: 1.3,
                     price: 35e3,
                     categoryId: 1,
-                    image: "/laptop/3.jpeg"
+                    image: "/delivery/laptop/3.jpeg"
                 }, {
                     id: 7,
                     name: "iPhone 14 Pro",
                     weight: .3,
                     price: 45e3,
                     categoryId: 2,
-                    image: "/phone/1.png"
+                    image: "/delivery/phone/1.png"
                 }, {
                     id: 8,
                     name: "Samsung Galaxy S23",
                     weight: .31,
                     price: 4e4,
                     categoryId: 2,
-                    image: "/phone/5.webp"
+                    image: "/delivery/phone/5.webp"
                 }, {
                     id: 9,
                     name: "Xiaomi Redmi Note 12",
                     weight: .35,
                     price: 12e3,
                     categoryId: 2,
-                    image: "/phone/3.jpg"
+                    image: "/delivery/phone/3.jpg"
                 }, {
                     id: 10,
                     name: "Google Pixel 7",
                     weight: .32,
                     price: 25e3,
                     categoryId: 2,
-                    image: "/phone/6.jpg"
+                    image: "/delivery/phone/6.jpg"
                 }, {
                     id: 11,
                     name: "OnePlus 11",
                     weight: .33,
                     price: 3e4,
                     categoryId: 2,
-                    image: "/phone/4.jpg"
+                    image: "/delivery/phone/4.jpg"
                 }, {
                     id: 12,
                     name: "Samsung Galaxy A54",
                     weight: .34,
                     price: 15e3,
                     categoryId: 2,
-                    image: "/phone/2.jpg"
+                    image: "/delivery/phone/2.jpg"
                 }, {
                     id: 13,
                     name: "Пральна машина Bosch Serie 6",
                     weight: 60,
                     price: 25e3,
                     categoryId: 3,
-                    image: "/tech/4.jpg"
+                    image: "/delivery/tech/4.jpg"
                 }, {
                     id: 14,
                     name: "Холодильник Samsung RB38",
                     weight: 80,
                     price: 3e4,
                     categoryId: 3,
-                    image: "/tech/6.avif"
+                    image: "/delivery/tech/6.avif"
                 }, {
                     id: 15,
                     name: "Мікрохвильова піч Panasonic",
                     weight: 12,
                     price: 4500,
                     categoryId: 3,
-                    image: "/tech/5.jpg"
+                    image: "/delivery/tech/5.jpg"
                 }, {
                     id: 16,
                     name: "Пилосос Dyson V15",
                     weight: 3,
                     price: 2e4,
                     categoryId: 3,
-                    image: "/tech/1.jpeg"
+                    image: "/delivery/tech/1.jpeg"
                 }, {
                     id: 17,
                     name: "Кавоварка DeLonghi",
                     weight: 4,
                     price: 9e3,
                     categoryId: 3,
-                    image: "/tech/2.jpg"
+                    image: "/delivery/tech/2.jpg"
                 }, {
                     id: 18,
                     name: "Кондиціонер LG Dual Inverter",
                     weight: 35,
                     price: 28e3,
                     categoryId: 3,
-                    image: "/tech/3.jpg"
+                    image: "/delivery/tech/3.jpg"
                 }, {
                     id: 19,
                     name: "LG OLED55",
                     weight: 15,
                     price: 35e3,
                     categoryId: 4,
-                    image: "/monitor/6.webp"
+                    image: "/delivery/monitor/6.webp"
                 }, {
                     id: 20,
                     name: "Samsung QLED Q80",
                     weight: 17,
                     price: 4e4,
                     categoryId: 4,
-                    image: "/monitor/2.jpg"
+                    image: "/delivery/monitor/2.jpg"
                 }, {
                     id: 21,
                     name: "Sony Bravia XR",
                     weight: 18,
                     price: 45e3,
                     categoryId: 4,
-                    image: "/monitor/5.webp"
+                    image: "/delivery/monitor/5.webp"
                 }, {
                     id: 22,
                     name: "Philips Ambilight 55PUS",
                     weight: 16,
                     price: 3e4,
                     categoryId: 4,
-                    image: "/monitor/4.png"
+                    image: "/delivery/monitor/4.png"
                 }, {
                     id: 23,
                     name: "TCL 6-Series 55R635",
                     weight: 17,
                     price: 25e3,
                     categoryId: 4,
-                    image: "/monitor/3.jpg"
+                    image: "/delivery/monitor/3.jpg"
                 }, {
                     id: 24,
                     name: "Hisense U8G 55",
                     weight: 18,
                     price: 22e3,
                     categoryId: 4,
-                    image: "/monitor/1.jpg"
+                    image: "/delivery/monitor/1.jpg"
                 }, {
                     id: 25,
                     name: "Стіл офісний IKEA Bekant",
                     weight: 30,
                     price: 8e3,
                     categoryId: 5,
-                    image: "/mb/2.webp"
+                    image: "/delivery/mb/2.webp"
                 }, {
                     id: 26,
                     name: "Крісло Cougar Armor",
                     weight: 20,
                     price: 6e3,
                     categoryId: 5,
-                    image: "/mb/1.webp"
+                    image: "/delivery/mb/1.webp"
                 }, {
                     id: 27,
                     name: "Шафа BRW Modern",
                     weight: 45,
                     price: 12e3,
                     categoryId: 5,
-                    image: "/mb/5.jpg"
+                    image: "/delivery/mb/5.jpg"
                 }, {
                     id: 28,
                     name: "Ліжко IKEA Malm",
                     weight: 50,
                     price: 15e3,
                     categoryId: 5,
-                    image: "/mb/3.webp"
+                    image: "/delivery/mb/3.webp"
                 }, {
                     id: 29,
                     name: "Комод BRW Porto",
                     weight: 40,
                     price: 1e4,
                     categoryId: 5,
-                    image: "/mb/4.jpg"
+                    image: "/delivery/mb/4.jpg"
                 }, {
                     id: 30,
                     name: "Тумба прикроватна IKEA Hemnes",
                     weight: 15,
                     price: 4e3,
                     categoryId: 5,
-                    image: "/mb/6.jpg"
+                    image: "/delivery/mb/6.jpg"
                 }],
                 categories: [{
                     id: 1,
@@ -6097,7 +6097,7 @@ function _f(e, t, n, s, r, i) {
 }
 const bf = Ot(rf, [
         ["render", _f],
-        ["__scopeId", "data-v-2df384a6"]
+        ["__scopeId", "data-v-e36b7e35"]
     ]),
     wf = {
         data() {
@@ -6378,4 +6378,4 @@ let ed = Wu({
     Bo = wa(Ba);
 Bo.use(ed);
 Bo.mount("#app");
-//# sourceMappingURL=index-ZbvrDJDw.js.map
+//# sourceMappingURL=index-DIIpZ1Kr.js.map
